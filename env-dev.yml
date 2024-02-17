@@ -7,7 +7,7 @@ channels:
   - conda-forge
 dependencies:
   - python >= 3.8
-  - mne >= 1.1
+  - mne >= 1.6
   - eelbrain
   # - pip:
   #   - "editable=git+https://github.com/proloyd/StabBB.git@80443e3b4077629913de816b1284907f76354a5c"
