@@ -1,0 +1,15 @@
+__pycache__
+*/__pycache__
+.komodotools
+*.komodoproject
+*/.ipynb_checkpoints
+*/*/.ipynb_checkpoints
+*/*/*/.ipynb_checkpoints
+*.svg
+.vscode
+build/
+_kernel/
+*.so
+purdonlabmeeg.egg-info/*
+*.pickle
+*.pkl

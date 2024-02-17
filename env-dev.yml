@@ -1,0 +1,13 @@
+# Environment for development
+# We recommend mamba for faster installation
+# usage: $ conda env create --file=env-dev.yml
+# usage: $ mamba env create --file=env-dev.yml
+name: purdonlabmeeg
+channels:
+  - conda-forge
+dependencies:
+  - python >= 3.8
+  - mne >= 1.1
+  - eelbrain
+  # - pip:
+  #   - "editable=git+https://github.com/proloyd/StabBB.git@80443e3b4077629913de816b1284907f76354a5c"

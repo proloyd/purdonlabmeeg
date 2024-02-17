@@ -1,4 +1,4 @@
-This tool is intended to use internally in purdongroup for meeg analysis.
+This tool is intended to be used internally in purdongroup for MEEG analysis.
 
 
 Copyright (c) 2021 Proloy Das
